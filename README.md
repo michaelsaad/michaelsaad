@@ -69,7 +69,7 @@ currently_building: Modular-monolith e-commerce API with Spring Modulith + OpenT
 | **Frontend** | React, Next.js, Vite, Vue.js, Tailwind CSS, Material UI, Bootstrap, HTML, CSS |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
 | **Messaging** | Kafka, RabbitMQ, BullMQ |
-| **Cloud & DevOps** | Docker, Kubernetes, AWS (EC2, S3), GCP, Cloudflare, Bitbucket Pipelines |
+| **Cloud & DevOps** | Docker, Kubernetes, AWS (EC2, S3, Lambda), GCP, Cloudflare, Bitbucket Pipelines |
 | **Observability** | Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Sentry |
 | **Architecture** | REST, GraphQL, WebSockets, Microservices, Event-Driven, Distributed Transactions, Clean Architecture |
 
