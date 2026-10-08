@@ -18,6 +18,7 @@
 ## 👋 About me
 
 I'm a **Backend Software Engineer** who builds scalable systems with **Java (Spring Boot)** and **Node.js**.
+I also work on the frontend with **React, Next.js, Vite and Tailwind**, so I can ship a feature end to end.
 I care about system design, clean architecture and automation, and I like solutions that solve a real business problem.
 Observability, logging, monitoring and performance tuning are a big part of how I work.
 
@@ -46,11 +47,18 @@ currently_building: Modular-monolith e-commerce API with Spring Modulith + OpenT
 
 ## 🛠️ Tech stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,ts,js,python&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq,prisma,graphql&theme=dark" /><br/>
+<p align="center"><b>Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,ts,js,python&theme=dark" />
+</p>
+<p align="center"><b>Data & Messaging</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq,prisma,graphql&theme=dark" />
+</p>
+<p align="center"><b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,vue,tailwind,mui,bootstrap,html&theme=dark" />
+</p>
+<p align="center"><b>Cloud, DevOps & Tools</b><br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,cloudflare,grafana,prometheus,sentry&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bun,git,bitbucket,maven,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,maven,bun,postman&theme=dark" />
 </p>
 
 | Area | Tools |
@@ -58,6 +66,7 @@ currently_building: Modular-monolith e-commerce API with Spring Modulith + OpenT
 | **Languages** | Java, TypeScript, JavaScript, SQL, Python |
 | **Java** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring Cloud, Spring Modulith, Hibernate, JUnit, Mockito |
 | **Node.js** | NestJS, Express.js, Hono.js, Prisma, Kysely, Zod |
+| **Frontend** | React, Next.js, Vite, Vue.js, Tailwind CSS, Material UI, Bootstrap, HTML, CSS |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
 | **Messaging** | Kafka, RabbitMQ, BullMQ |
 | **Cloud & DevOps** | Docker, Kubernetes, AWS (EC2, S3), GCP, Cloudflare, Bitbucket Pipelines |
