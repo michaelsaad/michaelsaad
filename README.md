@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/michaelbareh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/michael-bareh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:michealsaad11@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Cairo,%20Egypt-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" /></p>
 
