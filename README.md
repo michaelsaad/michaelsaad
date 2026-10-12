@@ -77,6 +77,19 @@ currently_building: Modular-monolith e-commerce API with Spring Modulith + OpenT
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### ⛪ [Khedma E3dady: Attendance & Points](https://github.com/michaelsaad/khedma-e3dady)
+A mobile-first **Arabic (RTL)** web app I built for my church's middle-school service, used by the servants every Friday.
+One-tap attendance that **automatically awards points through an immutable ledger** (unmarking reverses exactly what was awarded),
+skippable meetings, groups and a ranked dashboard with call / WhatsApp shortcuts.
+Email OTP + Google sign-in with role-based access, and it runs entirely on free tiers (**Render, Neon, Vercel, Brevo**).
+
+`Java 17` `Spring Boot` `PostgreSQL` `Flyway` `React` `TypeScript` `Tailwind` `Testcontainers`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛒 [Distributed E-commerce Microservices](https://github.com/michaelsaad/highly-scalable-distributed-ecommerce-microservices-main)
