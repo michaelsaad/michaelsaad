@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Michael%20Saad&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Backend%20Software%20Engineer%20%E2%80%A2%20Java%20%C2%B7%20Node.js&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Michael%20Saad&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Java%20%C2%B7%20Node.js%20%C2%B7%20React&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://github.com/michaelsaad">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=Spring+Boot+%7C+NestJS+%7C+Express;Microservices+%26+Event-Driven+Architecture;200%2B+production+APIs+shipped;Observability+is+a+feature%2C+not+an+afterthought" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=Full-stack%3A+backend+to+UI%2C+end+to+end;Spring+Boot+%7C+NestJS+%7C+React+%7C+Next.js;Microservices+%26+Event-Driven+Architecture;200%2B+production+APIs+shipped;Observability+is+a+feature%2C+not+an+afterthought" alt="Typing SVG" />
 </a>
 
 <p>
@@ -17,16 +17,18 @@
 
 ## 👋 About me
 
-I'm a **Backend Software Engineer** who builds scalable systems with **Java (Spring Boot)** and **Node.js**.
-I also work on the frontend with **React, Next.js, Vite and Tailwind**, so I can ship a feature end to end.
+I'm a **Full-Stack Software Engineer** who ships products end to end: scalable backends with **Java (Spring Boot)** and **Node.js**,
+and fast, mobile-first frontends with **React, Next.js, Vite and Tailwind**.
+My depth is in backend and distributed systems, and I take features all the way from the database to the UI and into production.
 I care about system design, clean architecture and automation, and I like solutions that solve a real business problem.
 Observability, logging, monitoring and performance tuning are a big part of how I work.
 
 ```yaml
 name: Michael Saad
-role: Backend Software Engineer @ Preezy (Remote)
+role: Full-Stack Software Engineer
+current: Backend Software Engineer @ Preezy (Remote)
 based_in: Cairo, Egypt
-focus: [APIs, Microservices, Event-Driven Systems, Observability]
+focus: [Full-Stack Web Apps, APIs, Microservices, Event-Driven Systems, Observability]
 languages: [Arabic (native), English (professional)]
 currently_building: Modular-monolith e-commerce API with Spring Modulith + OpenTelemetry
 ```
@@ -50,11 +52,11 @@ currently_building: Modular-monolith e-commerce API with Spring Modulith + OpenT
 <p align="center"><b>Backend</b><br/>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,ts,js,python&theme=dark" />
 </p>
-<p align="center"><b>Data & Messaging</b><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq,prisma,graphql&theme=dark" />
-</p>
 <p align="center"><b>Frontend</b><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,vue,tailwind,mui,bootstrap,html&theme=dark" />
+</p>
+<p align="center"><b>Data & Messaging</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq,prisma,graphql&theme=dark" />
 </p>
 <p align="center"><b>Cloud, DevOps & Tools</b><br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,cloudflare,grafana,prometheus,sentry&theme=dark" /><br/>
@@ -79,19 +81,6 @@ currently_building: Modular-monolith e-commerce API with Spring Modulith + OpenT
 <tr>
 <td colspan="2" valign="top">
 
-### ⛪ [Khedma E3dady: Attendance & Points](https://github.com/michaelsaad/khedma-e3dady)
-A mobile-first **Arabic (RTL)** web app I built for my church's middle-school service, used by the servants every Friday.
-One-tap attendance that **automatically awards points through an immutable ledger** (unmarking reverses exactly what was awarded),
-skippable meetings, groups and a ranked dashboard with call / WhatsApp shortcuts.
-Email OTP + Google sign-in with role-based access, and it runs entirely on free tiers (**Render, Neon, Vercel, Brevo**).
-
-`Java 17` `Spring Boot` `PostgreSQL` `Flyway` `React` `TypeScript` `Tailwind` `Testcontainers`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🛒 [Distributed E-commerce Microservices](https://github.com/michaelsaad/highly-scalable-distributed-ecommerce-microservices-main)
 Product, order, inventory and notification services behind an **API Gateway**,
 secured with **Keycloak**. Services talk over **Kafka with Avro + Schema Registry**,
@@ -99,6 +88,18 @@ and **Resilience4j** circuit breakers protect the calls between them.
 Full monitoring with **Prometheus, Grafana, Loki and Tempo**.
 
 `Java 21` `Spring Boot` `Kafka` `MongoDB` `MySQL` `Keycloak` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⛪ [Khedma E3dady](https://github.com/michaelsaad/khedma-e3dady) · Full-stack
+A mobile-first **Arabic (RTL)** attendance & points app, built end to end (Spring Boot API + React UI) and used every Friday at my church.
+Attendance **auto-awards points through an immutable ledger**, with email OTP + Google sign-in and roles.
+[Live demo](https://e3dady-stjohn-qalyub.vercel.app), deployed on **Render, Neon and Vercel**.
+
+`Spring Boot` `PostgreSQL` `React` `TypeScript` `Tailwind` `Testcontainers`
 
 </td>
 <td width="50%" valign="top">
