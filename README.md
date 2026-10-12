@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Michael%20Saad&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Java%20%C2%B7%20Node.js%20%C2%B7%20React&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Michael%20Saad&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://github.com/michaelsaad">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=Full-stack%3A+backend+to+UI%2C+end+to+end;Spring+Boot+%7C+NestJS+%7C+React+%7C+Next.js;Microservices+%26+Event-Driven+Architecture;200%2B+production+APIs+shipped;Observability+is+a+feature%2C+not+an+afterthought" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=Spring+Boot+%7C+NestJS+%7C+Express;React+%7C+Next.js+%7C+React+Native;Microservices+%26+Event-Driven+Architecture;200%2B+production+APIs+shipped;Observability+is+a+feature%2C+not+an+afterthought" alt="Typing SVG" />
 </a>
 
 <p>
@@ -17,18 +17,17 @@
 
 ## 👋 About me
 
-I'm a **Full-Stack Software Engineer** who ships products end to end: scalable backends with **Java (Spring Boot)** and **Node.js**,
-and fast, mobile-first frontends with **React, Next.js, Vite and Tailwind**.
-My depth is in backend and distributed systems, and I take features all the way from the database to the UI and into production.
+I'm a **Software Engineer**, mainly **backend**, building scalable systems with **Java (Spring Boot)** and **Node.js**.
+I also work across the stack with **React, Next.js and React Native**, so I can ship a feature end to end, from the database to the UI.
 I care about system design, clean architecture and automation, and I like solutions that solve a real business problem.
 Observability, logging, monitoring and performance tuning are a big part of how I work.
 
 ```yaml
 name: Michael Saad
-role: Full-Stack Software Engineer
+role: Software Engineer (Backend-focused, Full-Stack)
 current: Backend Software Engineer @ Preezy (Remote)
 based_in: Cairo, Egypt
-focus: [Full-Stack Web Apps, APIs, Microservices, Event-Driven Systems, Observability]
+focus: [APIs, Microservices, Event-Driven Systems, Observability, Full-Stack Apps]
 languages: [Arabic (native), English (professional)]
 currently_building: Modular-monolith e-commerce API with Spring Modulith + OpenTelemetry
 ```
@@ -52,7 +51,7 @@ currently_building: Modular-monolith e-commerce API with Spring Modulith + OpenT
 <p align="center"><b>Backend</b><br/>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,ts,js,python&theme=dark" />
 </p>
-<p align="center"><b>Frontend</b><br/>
+<p align="center"><b>Frontend & Mobile</b><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,vue,tailwind,mui,bootstrap,html&theme=dark" />
 </p>
 <p align="center"><b>Data & Messaging</b><br/>
@@ -68,7 +67,7 @@ currently_building: Modular-monolith e-commerce API with Spring Modulith + OpenT
 | **Languages** | Java, TypeScript, JavaScript, SQL, Python |
 | **Java** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring Cloud, Spring Modulith, Hibernate, JUnit, Mockito |
 | **Node.js** | NestJS, Express.js, Hono.js, Prisma, Kysely, Zod |
-| **Frontend** | React, Next.js, Vite, Vue.js, Tailwind CSS, Material UI, Bootstrap, HTML, CSS |
+| **Frontend & Mobile** | React, React Native, Next.js, Vite, Vue.js, Tailwind CSS, Material UI, Bootstrap, HTML, CSS |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
 | **Messaging** | Kafka, RabbitMQ, BullMQ |
 | **Cloud & DevOps** | Docker, Kubernetes, AWS (EC2, S3, Lambda), GCP, Cloudflare, Bitbucket Pipelines |
@@ -136,17 +135,6 @@ with Actuator health checks.
 </td>
 </tr>
 </table>
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=michaelsaad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsaad&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=michaelsaad&theme=tokyonight&hide_border=true" />
-</p>
 
 <div align="center">
 
