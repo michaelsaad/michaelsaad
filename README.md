@@ -9,6 +9,7 @@
 <p>
   <a href="https://www.linkedin.com/in/michael-bareh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:michealsaad11@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/201091587701"><img src="https://img.shields.io/badge/WhatsApp-+20%20109%20158%207701-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Cairo,%20Egypt-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" /></p>
 
 </div>
@@ -93,10 +94,10 @@ Full monitoring with **Prometheus, Grafana, Loki and Tempo**.
 <tr>
 <td width="50%" valign="top">
 
-### ⛪ [Khedma E3dady](https://github.com/michaelsaad/khedma-e3dady) · Full-stack
-A mobile-first **Arabic (RTL)** attendance & points app, built end to end (Spring Boot API + React UI) and used every Friday at my church.
+### 📋 [Attendance & Rewards Platform](https://github.com/michaelsaad/khedma-e3dady) · Full-stack
+A mobile-first **Arabic (RTL)** attendance & points app, built end to end (Spring Boot API + React UI) and used in production every week.
 Attendance **auto-awards points through an immutable ledger**, with email OTP + Google sign-in and roles.
-[Live demo](https://e3dady-stjohn-qalyub.vercel.app), deployed on **Render, Neon and Vercel**.
+Deployed on **Render, Neon and Vercel**.
 
 `Spring Boot` `PostgreSQL` `React` `TypeScript` `Tailwind` `Testcontainers`
 
