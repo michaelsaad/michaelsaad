@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Michael%20Saad&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://github.com/michaelsaad">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=Spring+Boot+%7C+NestJS+%7C+Express;React+%7C+Next.js+%7C+React+Native;Microservices+%26+Event-Driven+Architecture;200%2B+production+APIs+shipped;Observability+is+a+feature%2C+not+an+afterthought" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=Spring+Boot+%7C+NestJS+%7C+Hono.js+%7C+Express;React+%7C+Next.js+%7C+React+Native;Microservices+%26+Event-Driven+Architecture;200%2B+production+APIs+shipped;Observability+is+a+feature%2C+not+an+afterthought" alt="Typing SVG" />
 </a>
 
 <p>
@@ -36,7 +36,7 @@ currently_building: Modular-monolith e-commerce API with Spring Modulith + OpenT
 ## 💼 Experience
 
 **Backend Software Engineer · Preezy** (Remote) · _Sep 2025 to present_
-- Built and maintain **200+ RESTful APIs** and integrations with production services and third-party systems
+- Built and maintain **200+ RESTful APIs** with **NestJS and Hono.js (TypeScript)**, plus integrations with production services and third-party systems
 - Designed a **notification engine** with scheduling, retries, rate limiting and timezone-aware delivery
 - Built **background workers and cron jobs** for heavy async workloads
 - Built **automated analytics and reporting pipelines** that removed manual work for the operations teams
@@ -50,7 +50,7 @@ currently_building: Modular-monolith e-commerce API with Spring Modulith + OpenT
 ## 🛠️ Tech stack
 
 <p align="center"><b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,ts,js,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express&theme=dark" /><img src="assets/hono.svg" height="48" alt="Hono" /><img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark" />
 </p>
 <p align="center"><b>Frontend & Mobile</b><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,vue,tailwind,mui,bootstrap,html&theme=dark" />
