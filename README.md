@@ -50,7 +50,7 @@ currently_building: Modular-monolith e-commerce API with Spring Modulith + OpenT
 ## 🛠️ Tech stack
 
 <p align="center"><b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express&theme=dark" /><img src="assets/hono.svg" height="48" alt="Hono" /><img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express&theme=dark" height="48" /><img src="assets/hono.svg" height="48" alt="Hono" /><img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark" height="48" />
 </p>
 <p align="center"><b>Frontend & Mobile</b><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,vue,tailwind,mui,bootstrap,html&theme=dark" />
