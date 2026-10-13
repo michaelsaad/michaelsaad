@@ -127,11 +127,12 @@ My graduation project, graded _Excellent_.
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [Movies API](https://github.com/michaelsaad/moviesapi)
-A REST API for movies built with Spring Boot, Spring Data JPA and PostgreSQL,
-with Actuator health checks.
+### 🎡 [Spin & Share](https://github.com/michaelsaad/spin-share) · Side project
+A spin-the-wheel party game for live group sessions: weighted name picks, challenge and card wheels, live scores.
+**Canvas 2D** wheels, a **projector mirror window** rendered through a React portal, **Web Audio** effects,
+and sessions saved to **Cloudflare D1** through Pages Functions. [Live demo](https://spinsharestjb.pages.dev)
 
-`Java` `Spring Boot` `PostgreSQL` `JPA`
+`React` `Vite` `Canvas` `Web Audio` `Cloudflare Pages` `D1`
 
 </td>
 </tr>
