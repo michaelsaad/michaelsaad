@@ -36,7 +36,7 @@ currently_building: Modular-monolith e-commerce API with Spring Modulith + OpenT
 ## 💼 Experience
 
 **Backend Software Engineer · Preezy** (Remote) · _Sep 2025 to present_
-- Built and maintain **200+ RESTful APIs** with **NestJS and Hono.js (TypeScript)**, plus integrations with production services and third-party systems
+- Built and maintain **200+ RESTful APIs** and integrations with production services and third-party systems
 - Designed a **notification engine** with scheduling, retries, rate limiting and timezone-aware delivery
 - Built **background workers and cron jobs** for heavy async workloads
 - Built **automated analytics and reporting pipelines** that removed manual work for the operations teams
